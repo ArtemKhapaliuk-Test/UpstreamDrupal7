@@ -8,6 +8,7 @@ CONTENTS OF THIS FILE
  * Installation profiles
  * Appearance
  * Developing for Drupal
+ * Hello World!
 
 ABOUT DRUPAL
 ------------
